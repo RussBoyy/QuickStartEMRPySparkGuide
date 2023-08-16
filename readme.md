@@ -2,7 +2,7 @@
 
 In this demonstration we will provide a quick start guide to set up the relevant resources to start using EMR Studio.  
 
-Since AWS announced EMR Studio, it has been really easy to benefit from the processing power of EMR through EMR Studio.  EMR Studio EMR Studio is an integrated development environment (IDE) that makes it easy for data scientists and data engineers to develop, visualize, and debug data engineering and data science applications written in R, Python, Scala, and PySpark.
+Since AWS announced EMR Studio, it has been really easy to benefit from the processing power of EMR through EMR Studio.  EMR Studio is an integrated development environment (IDE) that makes it easy for data scientists and data engineers to develop, visualize, and debug data engineering and data science applications written in R, Python, Scala, and PySpark.
 In this demo we will;
 
 1.	Create a bucket and upload a file
@@ -17,7 +17,7 @@ Select **Create Bucket**. Create a bucket with default settings.
 
 Click on the bucket and select **Upload**.
 
-For this demo we am using a publicly available dataset of New York yellow taxi journeys.  Click through the default upload options.  
+For this demo we are using a publicly available dataset of New York yellow taxi journeys.  Click through the default upload options.  
 
 ![pyUploaddata](./images/pyUploaddata.png)
 
