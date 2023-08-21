@@ -1,0 +1,4 @@
+df6 = spark.read.options(header='True', inferSchema='True', delimiter=',') \
+  .csv("s3://[insertbucketname]/yellow_tripdata_2020-06-WithHeaders.csv")
+
+  df6.count()
